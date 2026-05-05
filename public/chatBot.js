@@ -1,6 +1,6 @@
 (function () {
 
-    const api_Url = "http://localhost:3000"
+    const api_Url = "https://support-ai-green.vercel.app/"
 
     const scriptTag = document.currentScript;
     const ownerId = scriptTag.getAttribute("data-owner-id")
