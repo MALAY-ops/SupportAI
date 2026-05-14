@@ -1,6 +1,6 @@
 (function () {
 
-    const api_Url = "https://support-ai-green.vercel.app/"
+    const api_Url = "https://support-ai-green.vercel.app/api/chat"
 
     const scriptTag = document.currentScript;
     const ownerId = scriptTag.getAttribute("data-owner-id")
